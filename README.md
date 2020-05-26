@@ -8,7 +8,7 @@ https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
 Thanks!
 
 
-# installing Anaconda
+# Installing Anaconda
 This will be a step by step on how to install Anaconda into Windows/MAC/Linux
 Please choose the correct OS
 
