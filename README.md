@@ -21,8 +21,6 @@ Please make sure to select "Add Anaconda3 to the PATH environment variable" so t
 
 ![PATH Environment Image](/images/Path.png)
 
-(https://docs.anaconda.com/_images/win-install-options.png)
-
 # Install Sublime Text
 A demonstration of a different environment text editor that can be saved for other different formats (For eg. python file)
 
