@@ -17,7 +17,7 @@ Link : https://www.anaconda.com/products/individual
 
 Installation documentation link : https://docs.anaconda.com/anaconda/install/
 
-Please make sure to select add Anaconda3 to the PATH environment variable so that command terminal would be able to call python in windows terminal
+Please make sure to select "Add Anaconda3 to the PATH environment variable" so that command terminal would be able to call python in windows terminal
 
 ![PATH Environment Image](/images/Path.png)
 
